@@ -22,6 +22,10 @@ This project showcases a web application that is designed to perform CAPM calcul
 - CAPM indicates that the expected return on a security is equal to the risk-free return plus a risk premium.
 
 - r(i)=r(f)+B(i)(r(m)-r(f))
+- r(i)=Expected Return on a security
+- r(f)=Risk Free rate of return
+- B(i)=Beta Between The stock and The Market
+- r(m)=Expected Return of the market 
 
 #### **Risk Free Asset Return**
 
