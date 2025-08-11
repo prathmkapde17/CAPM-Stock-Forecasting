@@ -71,12 +71,3 @@ We developed a web application using Python with Streamlit framework to quickly 
 - Open cmd terminal, navigate to our project directory, and run the application using streamlit run CAPM_Returns.py
 
 ---
-
-## 📂 **Task 3 - Web Deployment**
-
-### **Result**
-
-[Click to view full code of CAPM Return](https://github.com/nisa-g/CAPM-Web-Application-Financial-Analysis/blob/main/CAPM_Returns.py)
-
-[Click to view full code of CAPM Functions](https://github.com/nisa-g/CAPM-Web-Application-Financial-Analysis/blob/main/capm_functions.py
-)
