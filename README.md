@@ -80,29 +80,3 @@ We developed a web application using Python with Streamlit framework to quickly 
 
 [Click to view full code of CAPM Functions](https://github.com/nisa-g/CAPM-Web-Application-Financial-Analysis/blob/main/capm_functions.py
 )
-<br>
-
-<p align="center">
-  <kbd><img width="900" src="https://github.com/nisa-g/Medical-Inventory-Optimization-and-Forecasting/assets/139193734/a47a0d59-b3a6-409c-be4e-fae8ecfbd796"></kbd> <br>
-  Figure 2 — Dataframe head and dataframe tail with 4 selected stocks (Tesla, Apple, Amazon & Google).
-</p>
-<br>
-
-<br>
-
-<p align="center">
-  <kbd><img width="900" src="https://github.com/nisa-g/Medical-Inventory-Optimization-and-Forecasting/assets/139193734/bbbf3332-dd96-494a-9fa3-b809a57252f1"></kbd> <br>
-  Figure 3 — Price of all stocks before and after normalizing.
-</p>
-<br>
-
-<br>
-
-<p align="center">
-  <kbd><img width="900" src="https://github.com/nisa-g/Medical-Inventory-Optimization-and-Forecasting/assets/139193734/fda77db4-04d1-4795-ba0b-963636571727"></kbd> <br>
-  Figure 4 — Calculated Beta value and CAPM return value.
-</p>
-<br>
-
-
-
